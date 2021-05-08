@@ -84,7 +84,7 @@ The tf-[query | text] will follow the requiremen from the homework, so is not ne
 ## Data structures defined
 
 Text:
-```json
+```python
 {
     text: int,
     page: int,
@@ -97,7 +97,7 @@ Text:
 ```
 
 Query:
-```json
+```python
 {
     query: int,
     body: str,
