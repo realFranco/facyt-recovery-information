@@ -1,0 +1,2033 @@
+Homework #1 - Start
+
+Length of documents to process: 423
+Length of documents processed: 423
+Length of queries to process: 83
+Length of queries processed: 83
+Length of empty words to use: 340
+
+Reduction text           #1: 0.24262524000698205
+Reduction text (Porter)  #1: 0.013964042590329906
+Length of the vocabulary #1: 419
+
+Reduction text           #2: 0.23141762452107284
+Reduction text (Porter)  #2: 0.013026819923371624
+Length of the vocabulary #2: 145
+
+Reduction text           #3: 0.25069444444444444
+Reduction text (Porter)  #3: 0.01388888888888884
+Length of the vocabulary #3: 275
+
+Reduction text           #4: 0.22027972027972031
+Reduction text (Porter)  #4: 0.013986013986013957
+Length of the vocabulary #4: 127
+
+Reduction text           #5: 0.21446700507614214
+Reduction text (Porter)  #5: 0.013747884940778388
+Length of the vocabulary #5: 421
+
+Reduction text           #6: 0.2511400651465798
+Reduction text (Porter)  #6: 0.013680781758957705
+Length of the vocabulary #6: 293
+
+Reduction text           #7: 0.22782298075014884
+Reduction text (Porter)  #7: 0.014288549315340293
+Length of the vocabulary #7: 399
+
+Reduction text           #8: 0.196039603960396
+Reduction text (Porter)  #8: 0.013861386138613874
+Length of the vocabulary #8: 112
+
+Reduction text           #9: 0.22929701877070297
+Reduction text (Porter)  #9: 0.014354066985645897
+Length of the vocabulary #9: 247
+
+Reduction text           #10: 0.21909783245459868
+Reduction text (Porter)  #10: 0.01405975395430581
+Length of the vocabulary #10: 175
+
+Reduction text           #11: 0.2179899036255163
+Reduction text (Porter)  #11: 0.014226709499770562
+Length of the vocabulary #11: 387
+
+Reduction text           #12: 0.23830380250846106
+Reduction text (Porter)  #12: 0.013537726458291877
+Length of the vocabulary #12: 409
+
+Reduction text           #13: 0.2185238784370478
+Reduction text (Porter)  #13: 0.01447178002894356
+Length of the vocabulary #13: 237
+
+Reduction text           #14: 0.23384809328710998
+Reduction text (Porter)  #14: 0.014182161991805886
+Length of the vocabulary #14: 315
+
+Reduction text           #15: 0.20134680134680139
+Reduction text (Porter)  #15: 0.014814814814814836
+Length of the vocabulary #15: 168
+
+Reduction text           #16: 0.23916811091854417
+Reduction text (Porter)  #16: 0.013287117273252491
+Length of the vocabulary #16: 196
+
+Reduction text           #17: 0.23349244232299127
+Reduction text (Porter)  #17: 0.014319809069212375
+Length of the vocabulary #17: 241
+
+Reduction text           #18: 0.22272727272727277
+Reduction text (Porter)  #18: 0.014204545454545414
+Length of the vocabulary #18: 191
+
+Reduction text           #19: 0.18039482641252558
+Reduction text (Porter)  #19: 0.014295439074200167
+Length of the vocabulary #19: 155
+
+Reduction text           #20: 0.2316593886462882
+Reduction text (Porter)  #20: 0.01462882096069873
+Length of the vocabulary #20: 380
+
+Reduction text           #21: 0.2074159907300116
+Reduction text (Porter)  #21: 0.014291232135959842
+Length of the vocabulary #21: 254
+
+Reduction text           #22: 0.22368421052631582
+Reduction text (Porter)  #22: 0.013663967611336036
+Length of the vocabulary #22: 190
+
+Reduction text           #23: 0.22778073443320912
+Reduction text (Porter)  #23: 0.01383714741883979
+Length of the vocabulary #23: 182
+
+Reduction text           #24: 0.22654621264767194
+Reduction text (Porter)  #24: 0.013898540653231373
+Length of the vocabulary #24: 150
+
+Reduction text           #25: 0.23423614049936525
+Reduction text (Porter)  #25: 0.014176893779094368
+Length of the vocabulary #25: 409
+
+Reduction text           #26: 0.2118427769270036
+Reduction text (Porter)  #26: 0.01429300663603883
+Length of the vocabulary #26: 199
+
+Reduction text           #27: 0.20922611545248293
+Reduction text (Porter)  #27: 0.013360221830098329
+Length of the vocabulary #27: 390
+
+Reduction text           #28: 0.19320327249842673
+Reduction text (Porter)  #28: 0.013845185651353065
+Length of the vocabulary #28: 170
+
+Reduction text           #29: 0.20030464584920027
+Reduction text (Porter)  #29: 0.013709063214013661
+Length of the vocabulary #29: 146
+
+Reduction text           #30: 0.2304241435562806
+Reduction text (Porter)  #30: 0.013866231647634564
+Length of the vocabulary #30: 240
+
+Reduction text           #31: 0.22392026578073088
+Reduction text (Porter)  #31: 0.013953488372092981
+Length of the vocabulary #31: 161
+
+Reduction text           #32: 0.23067387874690104
+Reduction text (Porter)  #32: 0.013973405454135723
+Length of the vocabulary #32: 728
+
+Reduction text           #33: 0.20811099252934895
+Reduction text (Porter)  #33: 0.0138740661686233
+Length of the vocabulary #33: 362
+
+Reduction text           #34: 0.21079136690647482
+Reduction text (Porter)  #34: 0.013669064748201398
+Length of the vocabulary #34: 373
+
+Reduction text           #35: 0.239386189258312
+Reduction text (Porter)  #35: 0.013299232736572852
+Length of the vocabulary #35: 209
+
+Reduction text           #36: 0.20870265914585007
+Reduction text (Porter)  #36: 0.014504431909750148
+Length of the vocabulary #36: 137
+
+Reduction text           #37: 0.2097498396407954
+Reduction text (Porter)  #37: 0.01347017318794097
+Length of the vocabulary #37: 169
+
+Reduction text           #38: 0.2328559027777778
+Reduction text (Porter)  #38: 0.01410590277777779
+Length of the vocabulary #38: 406
+
+Reduction text           #39: 0.20773780187284374
+Reduction text (Porter)  #39: 0.013307047806801364
+Length of the vocabulary #39: 357
+
+Reduction text           #40: 0.25698324022346364
+Reduction text (Porter)  #40: 0.013966480446927387
+Length of the vocabulary #40: 200
+
+Reduction text           #41: 0.22076418371285222
+Reduction text (Porter)  #41: 0.012736395214203
+Length of the vocabulary #41: 262
+
+Reduction text           #42: 0.23311444652908064
+Reduction text (Porter)  #42: 0.01407129455909939
+Length of the vocabulary #42: 214
+
+Reduction text           #43: 0.24662907575386128
+Reduction text (Porter)  #43: 0.014219171365530747
+Length of the vocabulary #43: 371
+
+Reduction text           #44: 0.24893797790994054
+Reduction text (Porter)  #44: 0.014018691588784993
+Length of the vocabulary #44: 243
+
+Reduction text           #45: 0.19999999999999996
+Reduction text (Porter)  #45: 0.014156626506024117
+Length of the vocabulary #45: 332
+
+Reduction text           #46: 0.19639407598197034
+Reduction text (Porter)  #46: 0.014166130070830674
+Length of the vocabulary #46: 170
+
+Reduction text           #47: 0.23999693392610766
+Reduction text (Porter)  #47: 0.014870458378046902
+Length of the vocabulary #47: 1476
+
+Reduction text           #48: 0.2656571596589239
+Reduction text (Porter)  #48: 0.014113496030579209
+Length of the vocabulary #48: 494
+
+Reduction text           #49: 0.24058416602613375
+Reduction text (Porter)  #49: 0.013323084806559082
+Length of the vocabulary #49: 352
+
+Reduction text           #50: 0.2510074841681059
+Reduction text (Porter)  #50: 0.014392630972941856
+Length of the vocabulary #50: 179
+
+Reduction text           #51: 0.24362416107382545
+Reduction text (Porter)  #51: 0.014093959731543593
+Length of the vocabulary #51: 160
+
+Reduction text           #52: 0.21915444348576363
+Reduction text (Porter)  #52: 0.01380500431406384
+Length of the vocabulary #52: 264
+
+Reduction text           #53: 0.23661051043500125
+Reduction text (Porter)  #53: 0.014080965551923508
+Length of the vocabulary #53: 336
+
+Reduction text           #54: 0.2246675836772123
+Reduction text (Porter)  #54: 0.013525905547913775
+Length of the vocabulary #54: 369
+
+Reduction text           #55: 0.22382358048272266
+Reduction text (Porter)  #55: 0.01389130057301613
+Length of the vocabulary #55: 477
+
+Reduction text           #56: 0.22125435540069682
+Reduction text (Porter)  #56: 0.013688402190144333
+Length of the vocabulary #56: 330
+
+Reduction text           #57: 0.2315716272600834
+Reduction text (Porter)  #57: 0.01356050069541026
+Length of the vocabulary #57: 268
+
+Reduction text           #58: 0.2268961121733588
+Reduction text (Porter)  #58: 0.014659018483110242
+Length of the vocabulary #58: 160
+
+Reduction text           #59: 0.259453781512605
+Reduction text (Porter)  #59: 0.014180672268907513
+Length of the vocabulary #59: 204
+
+Reduction text           #60: 0.2322154471544715
+Reduction text (Porter)  #60: 0.013719512195121908
+Length of the vocabulary #60: 209
+
+Reduction text           #61: 0.20391389432485318
+Reduction text (Porter)  #61: 0.014090019569471646
+Length of the vocabulary #61: 237
+
+Reduction text           #62: 0.22121788772597528
+Reduction text (Porter)  #62: 0.013320647002854402
+Length of the vocabulary #62: 222
+
+Reduction text           #63: 0.2655634357762018
+Reduction text (Porter)  #63: 0.013396375098502777
+Length of the vocabulary #63: 135
+
+Reduction text           #64: 0.2508971291866029
+Reduction text (Porter)  #64: 0.014952153110047828
+Length of the vocabulary #64: 298
+
+Reduction text           #65: 0.23369703121035268
+Reduction text (Porter)  #65: 0.014463334179142362
+Length of the vocabulary #65: 361
+
+Reduction text           #66: 0.2209602478058854
+Reduction text (Porter)  #66: 0.013939081053174984
+Length of the vocabulary #66: 203
+
+Reduction text           #67: 0.215478841870824
+Reduction text (Porter)  #67: 0.013919821826280598
+Length of the vocabulary #67: 186
+
+Reduction text           #68: 0.23087719298245613
+Reduction text (Porter)  #68: 0.013333333333333308
+Length of the vocabulary #68: 149
+
+Reduction text           #69: 0.22882239094834
+Reduction text (Porter)  #69: 0.014143218698823845
+Length of the vocabulary #69: 535
+
+Reduction text           #70: 0.22408155414502784
+Reduction text (Porter)  #70: 0.014618195806885947
+Length of the vocabulary #70: 435
+
+Reduction text           #71: 0.22866419294990725
+Reduction text (Porter)  #71: 0.013605442176870763
+Length of the vocabulary #71: 519
+
+Reduction text           #72: 0.2152330428192497
+Reduction text (Porter)  #72: 0.013641530882910202
+Length of the vocabulary #72: 279
+
+Reduction text           #73: 0.19937205651491363
+Reduction text (Porter)  #73: 0.014128728414442682
+Length of the vocabulary #73: 206
+
+Reduction text           #74: 0.19141323792486586
+Reduction text (Porter)  #74: 0.013714967203339312
+Length of the vocabulary #74: 176
+
+Reduction text           #75: 0.19679752066115708
+Reduction text (Porter)  #75: 0.013429752066115741
+Length of the vocabulary #75: 195
+
+Reduction text           #76: 0.19193921374297984
+Reduction text (Porter)  #76: 0.013875123885034646
+Length of the vocabulary #76: 297
+
+Reduction text           #77: 0.22929120409906067
+Reduction text (Porter)  #77: 0.013663535439795038
+Length of the vocabulary #77: 235
+
+Reduction text           #78: 0.2281849912739965
+Reduction text (Porter)  #78: 0.013961605584642212
+Length of the vocabulary #78: 226
+
+Reduction text           #79: 0.2287291123716082
+Reduction text (Porter)  #79: 0.014257243599570701
+Length of the vocabulary #79: 574
+
+Reduction text           #80: 0.23608174770965473
+Reduction text (Porter)  #80: 0.014094432699083836
+Length of the vocabulary #80: 139
+
+Reduction text           #81: 0.19552827707145992
+Reduction text (Porter)  #81: 0.013152126260412067
+Length of the vocabulary #81: 219
+
+Reduction text           #82: 0.2152521525215252
+Reduction text (Porter)  #82: 0.014145141451414545
+Length of the vocabulary #82: 182
+
+Reduction text           #83: 0.2453215379380742
+Reduction text (Porter)  #83: 0.013610071452875072
+Length of the vocabulary #83: 246
+
+Reduction text           #84: 0.22619808306709266
+Reduction text (Porter)  #84: 0.014696485623003186
+Length of the vocabulary #84: 174
+
+Reduction text           #85: 0.24751066856330017
+Reduction text (Porter)  #85: 0.013513513513513487
+Length of the vocabulary #85: 163
+
+Reduction text           #86: 0.22254109052961124
+Reduction text (Porter)  #86: 0.014088181581006998
+Length of the vocabulary #86: 354
+
+Reduction text           #87: 0.22370550161812297
+Reduction text (Porter)  #87: 0.015776699029126262
+Length of the vocabulary #87: 231
+
+Reduction text           #88: 0.21125423728813564
+Reduction text (Porter)  #88: 0.0139661016949153
+Length of the vocabulary #88: 581
+
+Reduction text           #89: 0.23061977851175441
+Reduction text (Porter)  #89: 0.013405867495628554
+Length of the vocabulary #89: 415
+
+Reduction text           #90: 0.21355685131195334
+Reduction text (Porter)  #90: 0.014212827988338228
+Length of the vocabulary #90: 260
+
+Reduction text           #91: 0.2265440829797265
+Reduction text (Porter)  #91: 0.013672795851013664
+Length of the vocabulary #91: 357
+
+Reduction text           #92: 0.22675736961451243
+Reduction text (Porter)  #92: 0.013605442176870763
+Length of the vocabulary #92: 216
+
+Reduction text           #93: 0.20976744186046514
+Reduction text (Porter)  #93: 0.014418604651162736
+Length of the vocabulary #93: 232
+
+Reduction text           #94: 0.21935283136278783
+Reduction text (Porter)  #94: 0.014623522090852492
+Length of the vocabulary #94: 303
+
+Reduction text           #95: 0.23856613102595803
+Reduction text (Porter)  #95: 0.013597033374536438
+Length of the vocabulary #95: 175
+
+Reduction text           #96: 0.25966587112171835
+Reduction text (Porter)  #96: 0.014319809069212375
+Length of the vocabulary #96: 213
+
+Reduction text           #97: 0.24984948826008424
+Reduction text (Porter)  #97: 0.014148103552077074
+Length of the vocabulary #97: 326
+
+Reduction text           #98: 0.22649434571890148
+Reduction text (Porter)  #98: 0.013247172859450762
+Length of the vocabulary #98: 308
+
+Reduction text           #99: 0.2403680981595092
+Reduction text (Porter)  #99: 0.013987730061349679
+Length of the vocabulary #99: 633
+
+Reduction text           #100: 0.2121132669113791
+Reduction text (Porter)  #100: 0.014289459884635591
+Length of the vocabulary #100: 592
+
+Reduction text           #101: 0.2168445121951219
+Reduction text (Porter)  #101: 0.013719512195121908
+Length of the vocabulary #101: 254
+
+Reduction text           #102: 0.20840197693574958
+Reduction text (Porter)  #102: 0.014003294892915963
+Length of the vocabulary #102: 136
+
+Reduction text           #103: 0.21439205955334983
+Reduction text (Porter)  #103: 0.014392059553349879
+Length of the vocabulary #103: 217
+
+Reduction text           #104: 0.24450443501735442
+Reduction text (Porter)  #104: 0.013497878904743521
+Length of the vocabulary #104: 255
+
+Reduction text           #105: 0.23494623655913982
+Reduction text (Porter)  #105: 0.013978494623655968
+Length of the vocabulary #105: 199
+
+Reduction text           #106: 0.20272673384706574
+Reduction text (Porter)  #106: 0.013633669235328938
+Length of the vocabulary #106: 175
+
+Reduction text           #107: 0.21768115942028987
+Reduction text (Porter)  #107: 0.013913043478260834
+Length of the vocabulary #107: 312
+
+Reduction text           #108: 0.20272694653749557
+Reduction text (Porter)  #108: 0.013275923932543954
+Length of the vocabulary #108: 258
+
+Reduction text           #109: 0.20186697782963825
+Reduction text (Porter)  #109: 0.011668611435239229
+Length of the vocabulary #109: 108
+
+Reduction text           #110: 0.23690112130479102
+Reduction text (Porter)  #110: 0.014067278287461793
+Length of the vocabulary #110: 435
+
+Reduction text           #111: 0.24516695957820733
+Reduction text (Porter)  #111: 0.013181019332161648
+Length of the vocabulary #111: 128
+
+Reduction text           #112: 0.25922887612797374
+Reduction text (Porter)  #112: 0.01312551271534046
+Length of the vocabulary #112: 141
+
+Reduction text           #113: 0.2279646017699115
+Reduction text (Porter)  #113: 0.013982300884955778
+Length of the vocabulary #113: 468
+
+Reduction text           #114: 0.23842065299924065
+Reduction text (Porter)  #114: 0.012908124525436548
+Length of the vocabulary #114: 139
+
+Reduction text           #115: 0.21910877602646428
+Reduction text (Porter)  #115: 0.013426736719206023
+Length of the vocabulary #115: 442
+
+Reduction text           #116: 0.22181716208637126
+Reduction text (Porter)  #116: 0.014301738642736983
+Length of the vocabulary #116: 333
+
+Reduction text           #117: 0.21965174129353238
+Reduction text (Porter)  #117: 0.014179104477611948
+Length of the vocabulary #117: 371
+
+Reduction text           #118: 0.17142857142857137
+Reduction text (Porter)  #118: 0.013445378151260456
+Length of the vocabulary #118: 132
+
+Reduction text           #119: 0.21288714845140622
+Reduction text (Porter)  #119: 0.013527945888216486
+Length of the vocabulary #119: 251
+
+Reduction text           #120: 0.21360925990880397
+Reduction text (Porter)  #120: 0.013679410733076103
+Length of the vocabulary #120: 311
+
+Reduction text           #121: 0.2352903225806452
+Reduction text (Porter)  #121: 0.0141290322580645
+Length of the vocabulary #121: 1808
+
+Reduction text           #122: 0.22053941908713692
+Reduction text (Porter)  #122: 0.01784232365145233
+Length of the vocabulary #122: 387
+
+Reduction text           #123: 0.24197530864197536
+Reduction text (Porter)  #123: 0.012962962962962954
+Length of the vocabulary #123: 182
+
+Reduction text           #124: 0.19894099848714064
+Reduction text (Porter)  #124: 0.012859304084720136
+Length of the vocabulary #124: 149
+
+Reduction text           #125: 0.23131672597864772
+Reduction text (Porter)  #125: 0.013523131672597888
+Length of the vocabulary #125: 151
+
+Reduction text           #126: 0.20992822966507174
+Reduction text (Porter)  #126: 0.014354066985645897
+Length of the vocabulary #126: 310
+
+Reduction text           #127: 0.2561904761904762
+Reduction text (Porter)  #127: 0.013809523809523827
+Length of the vocabulary #127: 228
+
+Reduction text           #128: 0.23964165733482645
+Reduction text (Porter)  #128: 0.013997760358342659
+Length of the vocabulary #128: 191
+
+Reduction text           #129: 0.2609001406469761
+Reduction text (Porter)  #129: 0.01406469760900142
+Length of the vocabulary #129: 169
+
+Reduction text           #130: 0.22898230088495575
+Reduction text (Porter)  #130: 0.01382743362831862
+Length of the vocabulary #130: 187
+
+Reduction text           #131: 0.2412011624152406
+Reduction text (Porter)  #131: 0.01420729738456572
+Length of the vocabulary #131: 324
+
+Reduction text           #132: 0.22959959452610235
+Reduction text (Porter)  #132: 0.014191586416624435
+Length of the vocabulary #132: 212
+
+Reduction text           #133: 0.22853782830262637
+Reduction text (Porter)  #133: 0.013720109760878119
+Length of the vocabulary #133: 250
+
+Reduction text           #134: 0.2183159722222222
+Reduction text (Porter)  #134: 0.01432291666666663
+Length of the vocabulary #134: 210
+
+Reduction text           #135: 0.2450954044611664
+Reduction text (Porter)  #135: 0.013974737973662998
+Length of the vocabulary #135: 294
+
+Reduction text           #136: 0.2014892685063513
+Reduction text (Porter)  #136: 0.014016644765659225
+Length of the vocabulary #136: 229
+
+Reduction text           #137: 0.2283005105762217
+Reduction text (Porter)  #137: 0.013858497447118867
+Length of the vocabulary #137: 151
+
+Reduction text           #138: 0.20594003922667414
+Reduction text (Porter)  #138: 0.014009526478005019
+Length of the vocabulary #138: 336
+
+Reduction text           #139: 0.21047708138447152
+Reduction text (Porter)  #139: 0.012784533832241984
+Length of the vocabulary #139: 289
+
+Reduction text           #140: 0.23101357204735773
+Reduction text (Porter)  #140: 0.014438348252959865
+Length of the vocabulary #140: 315
+
+Reduction text           #141: 0.22556390977443608
+Reduction text (Porter)  #141: 0.013268465280849129
+Length of the vocabulary #141: 244
+
+Reduction text           #142: 0.21273291925465843
+Reduction text (Porter)  #142: 0.013975155279503104
+Length of the vocabulary #142: 362
+
+Reduction text           #143: 0.23881893182805036
+Reduction text (Porter)  #143: 0.013894919669995676
+Length of the vocabulary #143: 211
+
+Reduction text           #144: 0.21731748726655353
+Reduction text (Porter)  #144: 0.01358234295415961
+Length of the vocabulary #144: 258
+
+Reduction text           #145: 0.24749163879598657
+Reduction text (Porter)  #145: 0.013935340022296572
+Length of the vocabulary #145: 204
+
+Reduction text           #146: 0.22580645161290325
+Reduction text (Porter)  #146: 0.014093329157532142
+Length of the vocabulary #146: 295
+
+Reduction text           #147: 0.2793748255651689
+Reduction text (Porter)  #147: 0.014233882221602046
+Length of the vocabulary #147: 309
+
+Reduction text           #148: 0.21555217831813578
+Reduction text (Porter)  #148: 0.014437689969604817
+Length of the vocabulary #148: 337
+
+Reduction text           #149: 0.23412204234122047
+Reduction text (Porter)  #149: 0.013698630136986356
+Length of the vocabulary #149: 183
+
+Reduction text           #150: 0.23520249221183798
+Reduction text (Porter)  #150: 0.012980269989615767
+Length of the vocabulary #150: 192
+
+Reduction text           #151: 0.24574829931972786
+Reduction text (Porter)  #151: 0.013605442176870763
+Length of the vocabulary #151: 126
+
+Reduction text           #152: 0.22512953367875643
+Reduction text (Porter)  #152: 0.013730569948186555
+Length of the vocabulary #152: 362
+
+Reduction text           #153: 0.21287919105907394
+Reduction text (Porter)  #153: 0.012240553485896699
+Length of the vocabulary #153: 181
+
+Reduction text           #154: 0.2656421514818881
+Reduction text (Porter)  #154: 0.013172338090010949
+Length of the vocabulary #154: 110
+
+Reduction text           #155: 0.19140625
+Reduction text (Porter)  #155: 0.015980113636363646
+Length of the vocabulary #155: 477
+
+Reduction text           #156: 0.21625176596677542
+Reduction text (Porter)  #156: 0.014079017878891209
+Length of the vocabulary #156: 1273
+
+Reduction text           #157: 0.21406882591093113
+Reduction text (Porter)  #157: 0.014170040485829927
+Length of the vocabulary #157: 343
+
+Reduction text           #158: 0.1974448315911731
+Reduction text (Porter)  #158: 0.012195121951219523
+Length of the vocabulary #158: 176
+
+Reduction text           #159: 0.22378378378378383
+Reduction text (Porter)  #159: 0.01343629343629349
+Length of the vocabulary #159: 540
+
+Reduction text           #160: 0.2190156599552573
+Reduction text (Porter)  #160: 0.013646532438478798
+Length of the vocabulary #160: 410
+
+Reduction text           #161: 0.2006688963210702
+Reduction text (Porter)  #161: 0.021181716833890696
+Length of the vocabulary #161: 99
+
+Reduction text           #162: 0.23241444866920147
+Reduction text (Porter)  #162: 0.013783269961977207
+Length of the vocabulary #162: 221
+
+Reduction text           #163: 0.2372572815533981
+Reduction text (Porter)  #163: 0.013956310679611672
+Length of the vocabulary #163: 309
+
+Reduction text           #164: 0.2285849503076195
+Reduction text (Porter)  #164: 0.013724562233790816
+Length of the vocabulary #164: 210
+
+Reduction text           #165: 0.22805387830933577
+Reduction text (Porter)  #165: 0.012540640966093863
+Length of the vocabulary #165: 227
+
+Reduction text           #166: 0.23391812865497075
+Reduction text (Porter)  #166: 0.013157894736842146
+Length of the vocabulary #166: 286
+
+Reduction text           #167: 0.21058644325971054
+Reduction text (Porter)  #167: 0.014089870525514137
+Length of the vocabulary #167: 235
+
+Reduction text           #168: 0.22468085106382973
+Reduction text (Porter)  #168: 0.014042553191489393
+Length of the vocabulary #168: 238
+
+Reduction text           #169: 0.22752740560292328
+Reduction text (Porter)  #169: 0.013885505481120552
+Length of the vocabulary #169: 335
+
+Reduction text           #170: 0.21735201084500677
+Reduction text (Porter)  #170: 0.014008133755083585
+Length of the vocabulary #170: 378
+
+Reduction text           #171: 0.2339430029774564
+Reduction text (Porter)  #171: 0.013185878349638469
+Length of the vocabulary #171: 228
+
+Reduction text           #172: 0.22758620689655173
+Reduction text (Porter)  #172: 0.01379310344827589
+Length of the vocabulary #172: 63
+
+Reduction text           #173: 0.2109851787271142
+Reduction text (Porter)  #173: 0.013658820110433068
+Length of the vocabulary #173: 306
+
+Reduction text           #174: 0.22429906542056077
+Reduction text (Porter)  #174: 0.013169073916737495
+Length of the vocabulary #174: 220
+
+Reduction text           #175: 0.21371414502031272
+Reduction text (Porter)  #175: 0.01428043826172598
+Length of the vocabulary #175: 669
+
+Reduction text           #176: 0.20719776380153743
+Reduction text (Porter)  #176: 0.013626834381551323
+Length of the vocabulary #176: 282
+
+Reduction text           #177: 0.20986969780981424
+Reduction text (Porter)  #177: 0.013584696423620701
+Length of the vocabulary #177: 323
+
+Reduction text           #178: 0.2068690095846646
+Reduction text (Porter)  #178: 0.014376996805111841
+Length of the vocabulary #178: 238
+
+Reduction text           #179: 0.20746887966804983
+Reduction text (Porter)  #179: 0.01290917473490083
+Length of the vocabulary #179: 228
+
+Reduction text           #180: 0.2217973231357553
+Reduction text (Porter)  #180: 0.014021669853409802
+Length of the vocabulary #180: 186
+
+Reduction text           #181: 0.22436459246275198
+Reduction text (Porter)  #181: 0.014022787028922012
+Length of the vocabulary #181: 124
+
+Reduction text           #182: 0.2250632200056195
+Reduction text (Porter)  #182: 0.012924978926664776
+Length of the vocabulary #182: 330
+
+Reduction text           #183: 0.2248427672955975
+Reduction text (Porter)  #183: 0.013364779874213806
+Length of the vocabulary #183: 250
+
+Reduction text           #184: 0.2620545073375262
+Reduction text (Porter)  #184: 0.012578616352201255
+Length of the vocabulary #184: 106
+
+Reduction text           #185: 0.22603848228735834
+Reduction text (Porter)  #185: 0.014565725588922884
+Length of the vocabulary #185: 460
+
+Reduction text           #186: 0.23182481751824813
+Reduction text (Porter)  #186: 0.013722627737226323
+Length of the vocabulary #186: 317
+
+Reduction text           #187: 0.25161290322580643
+Reduction text (Porter)  #187: 0.012903225806451646
+Length of the vocabulary #187: 64
+
+Reduction text           #188: 0.2338672768878719
+Reduction text (Porter)  #188: 0.01403508771929829
+Length of the vocabulary #188: 572
+
+Reduction text           #189: 0.24047487575924908
+Reduction text (Porter)  #189: 0.014080618442849246
+Length of the vocabulary #189: 331
+
+Reduction text           #190: 0.2557803468208093
+Reduction text (Porter)  #190: 0.013005780346820761
+Length of the vocabulary #190: 86
+
+Reduction text           #191: 0.20854700854700858
+Reduction text (Porter)  #191: 0.013675213675213627
+Length of the vocabulary #191: 196
+
+Reduction text           #192: 0.2341960118795079
+Reduction text (Porter)  #192: 0.014000848536274924
+Length of the vocabulary #192: 228
+
+Reduction text           #193: 0.21822905390777225
+Reduction text (Porter)  #193: 0.01428880710110414
+Length of the vocabulary #193: 429
+
+Reduction text           #194: 0.21228822208614007
+Reduction text (Porter)  #194: 0.01388038375178613
+Length of the vocabulary #194: 418
+
+Reduction text           #195: 0.2192561487702459
+Reduction text (Porter)  #195: 0.014097180563887202
+Length of the vocabulary #195: 312
+
+Reduction text           #196: 0.1928553584811391
+Reduction text (Porter)  #196: 0.013989507869098139
+Length of the vocabulary #196: 368
+
+Reduction text           #197: 0.22269263336155798
+Reduction text (Porter)  #197: 0.012701100762066098
+Length of the vocabulary #197: 132
+
+Reduction text           #198: 0.251067463706234
+Reduction text (Porter)  #198: 0.013663535439795038
+Length of the vocabulary #198: 136
+
+Reduction text           #199: 0.24085199344620423
+Reduction text (Porter)  #199: 0.014199890770071
+Length of the vocabulary #199: 202
+
+Reduction text           #200: 0.21715817694369977
+Reduction text (Porter)  #200: 0.013404825737265424
+Length of the vocabulary #200: 168
+
+Reduction text           #201: 0.19487179487179485
+Reduction text (Porter)  #201: 0.014245014245014231
+Length of the vocabulary #201: 202
+
+Reduction text           #202: 0.2310756972111554
+Reduction text (Porter)  #202: 0.014049066890333362
+Length of the vocabulary #202: 367
+
+Reduction text           #203: 0.22934719815135762
+Reduction text (Porter)  #203: 0.013864818024263426
+Length of the vocabulary #203: 193
+
+Reduction text           #204: 0.23002754820936644
+Reduction text (Porter)  #204: 0.014364423455332509
+Length of the vocabulary #204: 420
+
+Reduction text           #205: 0.24940334128878283
+Reduction text (Porter)  #205: 0.013723150357995206
+Length of the vocabulary #205: 179
+
+Reduction text           #206: 0.26589964844998404
+Reduction text (Porter)  #206: 0.01342281879194629
+Length of the vocabulary #206: 297
+
+Reduction text           #207: 0.219758064516129
+Reduction text (Porter)  #207: 0.014112903225806495
+Length of the vocabulary #207: 200
+
+Reduction text           #208: 0.21356635071090047
+Reduction text (Porter)  #208: 0.013033175355450233
+Length of the vocabulary #208: 320
+
+Reduction text           #209: 0.21164408641523247
+Reduction text (Porter)  #209: 0.01391431709996338
+Length of the vocabulary #209: 257
+
+Reduction text           #210: 0.21507441190590493
+Reduction text (Porter)  #210: 0.01392222755640904
+Length of the vocabulary #210: 202
+
+Reduction text           #211: 0.23871360454499335
+Reduction text (Porter)  #211: 0.014406005884143203
+Length of the vocabulary #211: 686
+
+Reduction text           #212: 0.21703173893607508
+Reduction text (Porter)  #212: 0.014751899865891871
+Length of the vocabulary #212: 386
+
+Reduction text           #213: 0.24102564102564106
+Reduction text (Porter)  #213: 0.014743589743589691
+Length of the vocabulary #213: 159
+
+Reduction text           #214: 0.19601187950784893
+Reduction text (Porter)  #214: 0.014425116673737803
+Length of the vocabulary #214: 232
+
+Reduction text           #215: 0.2168989547038328
+Reduction text (Porter)  #215: 0.013937282229965153
+Length of the vocabulary #215: 337
+
+Reduction text           #216: 0.24528301886792447
+Reduction text (Porter)  #216: 0.014513788098693747
+Length of the vocabulary #216: 155
+
+Reduction text           #217: 0.20669745958429564
+Reduction text (Porter)  #217: 0.01385681293302543
+Length of the vocabulary #217: 185
+
+Reduction text           #218: 0.24392935982339958
+Reduction text (Porter)  #218: 0.014348785871964642
+Length of the vocabulary #218: 186
+
+Reduction text           #219: 0.2196480938416422
+Reduction text (Porter)  #219: 0.013782991202346051
+Length of the vocabulary #219: 293
+
+Reduction text           #220: 0.20833333333333337
+Reduction text (Porter)  #220: 0.013605442176870763
+Length of the vocabulary #220: 128
+
+Reduction text           #221: 0.19596711041503523
+Reduction text (Porter)  #221: 0.014095536413469056
+Length of the vocabulary #221: 445
+
+Reduction text           #222: 0.22269353128313896
+Reduction text (Porter)  #222: 0.01378579003181335
+Length of the vocabulary #222: 206
+
+Reduction text           #223: 0.2097118463180363
+Reduction text (Porter)  #223: 0.014407684098185713
+Length of the vocabulary #223: 184
+
+Reduction text           #224: 0.23669623059866962
+Reduction text (Porter)  #224: 0.013303769401330379
+Length of the vocabulary #224: 189
+
+Reduction text           #225: 0.1960332103321033
+Reduction text (Porter)  #225: 0.01291512915129156
+Length of the vocabulary #225: 228
+
+Reduction text           #226: 0.22328931572629052
+Reduction text (Porter)  #226: 0.013605442176870763
+Length of the vocabulary #226: 260
+
+Reduction text           #227: 0.20015220700152203
+Reduction text (Porter)  #227: 0.013318112633181167
+Length of the vocabulary #227: 265
+
+Reduction text           #228: 0.22602248265965075
+Reduction text (Porter)  #228: 0.01411145658933266
+Length of the vocabulary #228: 341
+
+Reduction text           #229: 0.25111252383979654
+Reduction text (Porter)  #229: 0.014303877940241572
+Length of the vocabulary #229: 312
+
+Reduction text           #230: 0.18031032637774214
+Reduction text (Porter)  #230: 0.013643659711075395
+Length of the vocabulary #230: 357
+
+Reduction text           #231: 0.20141738157403954
+Reduction text (Porter)  #231: 0.01305483028720622
+Length of the vocabulary #231: 269
+
+Reduction text           #232: 0.2007113821138211
+Reduction text (Porter)  #232: 0.014227642276422814
+Length of the vocabulary #232: 199
+
+Reduction text           #233: 0.23630504833512356
+Reduction text (Porter)  #233: 0.012889366272824887
+Length of the vocabulary #233: 407
+
+Reduction text           #234: 0.2060240963855422
+Reduction text (Porter)  #234: 0.013654618473895597
+Length of the vocabulary #234: 248
+
+Reduction text           #235: 0.2503242542153048
+Reduction text (Porter)  #235: 0.013834846519671373
+Length of the vocabulary #235: 224
+
+Reduction text           #236: 0.2105742935278031
+Reduction text (Porter)  #236: 0.013855970829535047
+Length of the vocabulary #236: 473
+
+Reduction text           #237: 0.2198177676537585
+Reduction text (Porter)  #237: 0.013667425968109326
+Length of the vocabulary #237: 176
+
+Reduction text           #238: 0.23283261802575106
+Reduction text (Porter)  #238: 0.013680257510729654
+Length of the vocabulary #238: 345
+
+Reduction text           #239: 0.20315342631898126
+Reduction text (Porter)  #239: 0.013947847180109108
+Length of the vocabulary #239: 157
+
+Reduction text           #240: 0.23961980990495246
+Reduction text (Porter)  #240: 0.014007003501750881
+Length of the vocabulary #240: 335
+
+Reduction text           #241: 0.2110036275695284
+Reduction text (Porter)  #241: 0.013905683192261153
+Length of the vocabulary #241: 300
+
+Reduction text           #242: 0.21378504672897192
+Reduction text (Porter)  #242: 0.012850467289719614
+Length of the vocabulary #242: 167
+
+Reduction text           #243: 0.19526952695269528
+Reduction text (Porter)  #243: 0.013751375137513788
+Length of the vocabulary #243: 179
+
+Reduction text           #244: 0.2308288148721921
+Reduction text (Porter)  #244: 0.013942680092951187
+Length of the vocabulary #244: 255
+
+Reduction text           #245: 0.24641833810888247
+Reduction text (Porter)  #245: 0.013917314776913603
+Length of the vocabulary #245: 247
+
+Reduction text           #246: 0.21666666666666667
+Reduction text (Porter)  #246: 0.01375000000000004
+Length of the vocabulary #246: 237
+
+Reduction text           #247: 0.2277131782945736
+Reduction text (Porter)  #247: 0.013565891472868241
+Length of the vocabulary #247: 283
+
+Reduction text           #248: 0.23835920177383596
+Reduction text (Porter)  #248: 0.01367331855136733
+Length of the vocabulary #248: 291
+
+Reduction text           #249: 0.24489795918367352
+Reduction text (Porter)  #249: 0.014321518080916529
+Length of the vocabulary #249: 303
+
+Reduction text           #250: 0.21083242457288254
+Reduction text (Porter)  #250: 0.014176663031624903
+Length of the vocabulary #250: 273
+
+Reduction text           #251: 0.20998201438848918
+Reduction text (Porter)  #251: 0.013489208633093552
+Length of the vocabulary #251: 197
+
+Reduction text           #252: 0.2153342070773263
+Reduction text (Porter)  #252: 0.013892529488859773
+Length of the vocabulary #252: 599
+
+Reduction text           #253: 0.23692810457516345
+Reduction text (Porter)  #253: 0.013951734539969785
+Length of the vocabulary #253: 606
+
+Reduction text           #254: 0.20785138450753593
+Reduction text (Porter)  #254: 0.012968804766911979
+Length of the vocabulary #254: 267
+
+Reduction text           #255: 0.22175659158372618
+Reduction text (Porter)  #255: 0.014318142133752376
+Length of the vocabulary #255: 459
+
+Reduction text           #256: 0.21404421326397916
+Reduction text (Porter)  #256: 0.013003901170351106
+Length of the vocabulary #256: 383
+
+Reduction text           #257: 0.20171390903098219
+Reduction text (Porter)  #257: 0.013623379477038067
+Length of the vocabulary #257: 374
+
+Reduction text           #258: 0.2187365706918779
+Reduction text (Porter)  #258: 0.013751611516974682
+Length of the vocabulary #258: 234
+
+Reduction text           #259: 0.2039503904455673
+Reduction text (Porter)  #259: 0.01240238860817644
+Length of the vocabulary #259: 233
+
+Reduction text           #260: 0.19871794871794868
+Reduction text (Porter)  #260: 0.0132478632478632
+Length of the vocabulary #260: 251
+
+Reduction text           #261: 0.23700655387898184
+Reduction text (Porter)  #261: 0.014479500076207907
+Length of the vocabulary #261: 531
+
+Reduction text           #262: 0.22616471945766625
+Reduction text (Porter)  #262: 0.013558344151161084
+Length of the vocabulary #262: 573
+
+Reduction text           #263: 0.23112128146453093
+Reduction text (Porter)  #263: 0.014710689767898022
+Length of the vocabulary #263: 288
+
+Reduction text           #264: 0.24074499885031042
+Reduction text (Porter)  #264: 0.013796275005748426
+Length of the vocabulary #264: 370
+
+Reduction text           #265: 0.21660649819494582
+Reduction text (Porter)  #265: 0.013408973697782378
+Length of the vocabulary #265: 199
+
+Reduction text           #266: 0.22867596615595698
+Reduction text (Porter)  #266: 0.01372055796935745
+Length of the vocabulary #266: 403
+
+Reduction text           #267: 0.21409691629955951
+Reduction text (Porter)  #267: 0.014390602055800339
+Length of the vocabulary #267: 326
+
+Reduction text           #268: 0.21255124566382844
+Reduction text (Porter)  #268: 0.012929675181330813
+Length of the vocabulary #268: 292
+
+Reduction text           #269: 0.22447859495060374
+Reduction text (Porter)  #269: 0.014270032930845278
+Length of the vocabulary #269: 178
+
+Reduction text           #270: 0.22281544758853888
+Reduction text (Porter)  #270: 0.013703505961914941
+Length of the vocabulary #270: 485
+
+Reduction text           #271: 0.24367633426036284
+Reduction text (Porter)  #271: 0.01436895775393987
+Length of the vocabulary #271: 996
+
+Reduction text           #272: 0.191909060514878
+Reduction text (Porter)  #272: 0.014209294550317608
+Length of the vocabulary #272: 497
+
+Reduction text           #273: 0.2504201680672269
+Reduction text (Porter)  #273: 0.014453781512605013
+Length of the vocabulary #273: 462
+
+Reduction text           #274: 0.22887257669866368
+Reduction text (Porter)  #274: 0.014304536043666438
+Length of the vocabulary #274: 465
+
+Reduction text           #275: 0.22666666666666668
+Reduction text (Porter)  #275: 0.013594771241830061
+Length of the vocabulary #275: 345
+
+Reduction text           #276: 0.19510061242344712
+Reduction text (Porter)  #276: 0.013123359580052507
+Length of the vocabulary #276: 124
+
+Reduction text           #277: 0.22420856610800743
+Reduction text (Porter)  #277: 0.013966480446927387
+Length of the vocabulary #277: 446
+
+Reduction text           #278: 0.2224615384615385
+Reduction text (Porter)  #278: 0.014153846153846183
+Length of the vocabulary #278: 309
+
+Reduction text           #279: 0.21154186581695877
+Reduction text (Porter)  #279: 0.014161798548415594
+Length of the vocabulary #279: 457
+
+Reduction text           #280: 0.20665691294806143
+Reduction text (Porter)  #280: 0.013533284564740344
+Length of the vocabulary #280: 494
+
+Reduction text           #281: 0.2511392405063291
+Reduction text (Porter)  #281: 0.013502109704641385
+Length of the vocabulary #281: 459
+
+Reduction text           #282: 0.23313293253173017
+Reduction text (Porter)  #282: 0.014028056112224463
+Length of the vocabulary #282: 178
+
+Reduction text           #283: 0.22643979057591623
+Reduction text (Porter)  #283: 0.014070680628272214
+Length of the vocabulary #283: 285
+
+Reduction text           #284: 0.20447737663566135
+Reduction text (Porter)  #284: 0.014031215513164108
+Length of the vocabulary #284: 495
+
+Reduction text           #285: 0.23049095607235137
+Reduction text (Porter)  #285: 0.013953488372092981
+Length of the vocabulary #285: 195
+
+Reduction text           #286: 0.21499477533960287
+Reduction text (Porter)  #286: 0.014106583072100332
+Length of the vocabulary #286: 356
+
+Reduction text           #287: 0.2256480754124116
+Reduction text (Porter)  #287: 0.014139827179890041
+Length of the vocabulary #287: 445
+
+Reduction text           #288: 0.2182741116751269
+Reduction text (Porter)  #288: 0.014503263234227681
+Length of the vocabulary #288: 289
+
+Reduction text           #289: 0.2225945428434658
+Reduction text (Porter)  #289: 0.014121589277166113
+Length of the vocabulary #289: 368
+
+Reduction text           #290: 0.2354986276303751
+Reduction text (Porter)  #290: 0.014364135407136325
+Length of the vocabulary #290: 792
+
+Reduction text           #291: 0.24446583253128007
+Reduction text (Porter)  #291: 0.013474494706448459
+Length of the vocabulary #291: 205
+
+Reduction text           #292: 0.22309044735299866
+Reduction text (Porter)  #292: 0.014260597773002592
+Length of the vocabulary #292: 412
+
+Reduction text           #293: 0.23583221775992858
+Reduction text (Porter)  #293: 0.013833110218652411
+Length of the vocabulary #293: 370
+
+Reduction text           #294: 0.2258694666341089
+Reduction text (Porter)  #294: 0.014616109115010323
+Length of the vocabulary #294: 1838
+
+Reduction text           #295: 0.2426229508196721
+Reduction text (Porter)  #295: 0.013770491803278717
+Length of the vocabulary #295: 363
+
+Reduction text           #296: 0.2527684159845932
+Reduction text (Porter)  #296: 0.013962445835339454
+Length of the vocabulary #296: 362
+
+Reduction text           #297: 0.21278497988377287
+Reduction text (Porter)  #297: 0.014304872597228457
+Length of the vocabulary #297: 415
+
+Reduction text           #298: 0.22218087085969485
+Reduction text (Porter)  #298: 0.014328247115742432
+Length of the vocabulary #298: 441
+
+Reduction text           #299: 0.2147505422993492
+Reduction text (Porter)  #299: 0.013738250180766465
+Length of the vocabulary #299: 161
+
+Reduction text           #300: 0.19862144023217854
+Reduction text (Porter)  #300: 0.013966987121349583
+Length of the vocabulary #300: 521
+
+Reduction text           #301: 0.21975742100223428
+Reduction text (Porter)  #301: 0.014522821576763434
+Length of the vocabulary #301: 532
+
+Reduction text           #302: 0.2486270594108837
+Reduction text (Porter)  #302: 0.013979031452820756
+Length of the vocabulary #302: 214
+
+Reduction text           #303: 0.20458952811893993
+Reduction text (Porter)  #303: 0.013574660633484115
+Length of the vocabulary #303: 261
+
+Reduction text           #304: 0.23898840885142258
+Reduction text (Porter)  #304: 0.0141201264488936
+Length of the vocabulary #304: 389
+
+Reduction text           #305: 0.22568620806506268
+Reduction text (Porter)  #305: 0.014571331751948469
+Length of the vocabulary #305: 277
+
+Reduction text           #306: 0.21611909650924022
+Reduction text (Porter)  #306: 0.01386036960985626
+Length of the vocabulary #306: 464
+
+Reduction text           #307: 0.22867281760113556
+Reduction text (Porter)  #307: 0.014336408800567746
+Length of the vocabulary #307: 577
+
+Reduction text           #308: 0.2062015503875969
+Reduction text (Porter)  #308: 0.014235377026074691
+Length of the vocabulary #308: 572
+
+Reduction text           #309: 0.21206821163095757
+Reduction text (Porter)  #309: 0.013992129427197186
+Length of the vocabulary #309: 232
+
+Reduction text           #310: 0.24378109452736318
+Reduction text (Porter)  #310: 0.014303482587064709
+Length of the vocabulary #310: 161
+
+Reduction text           #311: 0.23599502045171616
+Reduction text (Porter)  #311: 0.014938644851502758
+Length of the vocabulary #311: 502
+
+Reduction text           #312: 0.24021739130434783
+Reduction text (Porter)  #312: 0.015579710144927539
+Length of the vocabulary #312: 271
+
+Reduction text           #313: 0.2325244476638899
+Reduction text (Porter)  #313: 0.013763129300977894
+Length of the vocabulary #313: 274
+
+Reduction text           #314: 0.25448430493273544
+Reduction text (Porter)  #314: 0.014013452914798163
+Length of the vocabulary #314: 186
+
+Reduction text           #315: 0.22754348344055275
+Reduction text (Porter)  #315: 0.013819394805813623
+Length of the vocabulary #315: 367
+
+Reduction text           #316: 0.2520458265139116
+Reduction text (Porter)  #316: 0.014002545917439546
+Length of the vocabulary #316: 457
+
+Reduction text           #317: 0.22818791946308725
+Reduction text (Porter)  #317: 0.01342281879194629
+Length of the vocabulary #317: 101
+
+Reduction text           #318: 0.22050375607600525
+Reduction text (Porter)  #318: 0.013256738842244764
+Length of the vocabulary #318: 234
+
+Reduction text           #319: 0.21414653156664065
+Reduction text (Porter)  #319: 0.014809041309431059
+Length of the vocabulary #319: 452
+
+Reduction text           #320: 0.2281626506024096
+Reduction text (Porter)  #320: 0.014307228915662606
+Length of the vocabulary #320: 142
+
+Reduction text           #321: 0.20403957131079964
+Reduction text (Porter)  #321: 0.014220939818631484
+Length of the vocabulary #321: 443
+
+Reduction text           #322: 0.20525059665871126
+Reduction text (Porter)  #322: 0.013922036595067633
+Length of the vocabulary #322: 239
+
+Reduction text           #323: 0.21627543035993735
+Reduction text (Porter)  #323: 0.013771517996870153
+Length of the vocabulary #323: 299
+
+Reduction text           #324: 0.23266383228265652
+Reduction text (Porter)  #324: 0.014367394810145151
+Length of the vocabulary #324: 546
+
+Reduction text           #325: 0.2214814814814815
+Reduction text (Porter)  #325: 0.013333333333333308
+Length of the vocabulary #325: 156
+
+Reduction text           #326: 0.22151121453041178
+Reduction text (Porter)  #326: 0.014349427961993455
+Length of the vocabulary #326: 990
+
+Reduction text           #327: 0.20502512562814068
+Reduction text (Porter)  #327: 0.014405360134003398
+Length of the vocabulary #327: 503
+
+Reduction text           #328: 0.22815158546017011
+Reduction text (Porter)  #328: 0.014694508894044889
+Length of the vocabulary #328: 326
+
+Reduction text           #329: 0.24295330248212033
+Reduction text (Porter)  #329: 0.014514093395035732
+Length of the vocabulary #329: 411
+
+Reduction text           #330: 0.24827586206896557
+Reduction text (Porter)  #330: 0.013333333333333308
+Length of the vocabulary #330: 220
+
+Reduction text           #331: 0.19219817767653757
+Reduction text (Porter)  #331: 0.01395216400911159
+Length of the vocabulary #331: 312
+
+Reduction text           #332: 0.1963734567901234
+Reduction text (Porter)  #332: 0.014660493827160503
+Length of the vocabulary #332: 246
+
+Reduction text           #333: 0.22646387832699622
+Reduction text (Porter)  #333: 0.013992395437262384
+Length of the vocabulary #333: 554
+
+Reduction text           #334: 0.23203110183956
+Reduction text (Porter)  #334: 0.014128579556229814
+Length of the vocabulary #334: 735
+
+Reduction text           #335: 0.23010348071495768
+Reduction text (Porter)  #335: 0.013546566321730902
+Length of the vocabulary #335: 508
+
+Reduction text           #336: 0.23647678314983245
+Reduction text (Porter)  #336: 0.013882240306366644
+Length of the vocabulary #336: 224
+
+Reduction text           #337: 0.24558037549677947
+Reduction text (Porter)  #337: 0.014526517747019296
+Length of the vocabulary #337: 555
+
+Reduction text           #338: 0.19294743845642048
+Reduction text (Porter)  #338: 0.013639387890884924
+Length of the vocabulary #338: 301
+
+Reduction text           #339: 0.21574121242995414
+Reduction text (Porter)  #339: 0.014009169638308672
+Length of the vocabulary #339: 355
+
+Reduction text           #340: 0.2297226582940869
+Reduction text (Porter)  #340: 0.014128728414442682
+Length of the vocabulary #340: 362
+
+Reduction text           #341: 0.2197614991482112
+Reduction text (Porter)  #341: 0.013628620102214661
+Length of the vocabulary #341: 257
+
+Reduction text           #342: 0.1917750734368443
+Reduction text (Porter)  #342: 0.014687368862777994
+Length of the vocabulary #342: 223
+
+Reduction text           #343: 0.23029449978345606
+Reduction text (Porter)  #343: 0.014400173235166736
+Length of the vocabulary #343: 1721
+
+Reduction text           #344: 0.23081009296148736
+Reduction text (Porter)  #344: 0.014342629482071767
+Length of the vocabulary #344: 350
+
+Reduction text           #345: 0.23264017823988115
+Reduction text (Porter)  #345: 0.014110657259561843
+Length of the vocabulary #345: 475
+
+Reduction text           #346: 0.24382207578253712
+Reduction text (Porter)  #346: 0.014277869302581014
+Length of the vocabulary #346: 190
+
+Reduction text           #347: 0.21382289416846656
+Reduction text (Porter)  #347: 0.01295896328293733
+Length of the vocabulary #347: 159
+
+Reduction text           #348: 0.20871778555520204
+Reduction text (Porter)  #348: 0.013999363665287978
+Length of the vocabulary #348: 299
+
+Reduction text           #349: 0.23430792905159148
+Reduction text (Porter)  #349: 0.014416457439054065
+Length of the vocabulary #349: 861
+
+Reduction text           #350: 0.20106347623795284
+Reduction text (Porter)  #350: 0.013625789298770341
+Length of the vocabulary #350: 280
+
+Reduction text           #351: 0.2262734584450402
+Reduction text (Porter)  #351: 0.01394101876675602
+Length of the vocabulary #351: 207
+
+Reduction text           #352: 0.22876761835923387
+Reduction text (Porter)  #352: 0.013913986266714806
+Length of the vocabulary #352: 442
+
+Reduction text           #353: 0.21246458923512745
+Reduction text (Porter)  #353: 0.014164305949008527
+Length of the vocabulary #353: 164
+
+Reduction text           #354: 0.2114816378218658
+Reduction text (Porter)  #354: 0.013929928239763578
+Length of the vocabulary #354: 238
+
+Reduction text           #355: 0.2084089534180278
+Reduction text (Porter)  #355: 0.014821536600120977
+Length of the vocabulary #355: 302
+
+Reduction text           #356: 0.20718409236690183
+Reduction text (Porter)  #356: 0.012828736369467575
+Length of the vocabulary #356: 309
+
+Reduction text           #357: 0.24447663889894966
+Reduction text (Porter)  #357: 0.014125316914161523
+Length of the vocabulary #357: 262
+
+Reduction text           #358: 0.19363601086534732
+Reduction text (Porter)  #358: 0.013581684128831983
+Length of the vocabulary #358: 240
+
+Reduction text           #359: 0.23547019206784736
+Reduction text (Porter)  #359: 0.014218009478673022
+Length of the vocabulary #359: 870
+
+Reduction text           #360: 0.21097477845944101
+Reduction text (Porter)  #360: 0.014485344239945519
+Length of the vocabulary #360: 439
+
+Reduction text           #361: 0.21242278654770075
+Reduction text (Porter)  #361: 0.016815374056279975
+Length of the vocabulary #361: 273
+
+Reduction text           #362: 0.20296465222348914
+Reduction text (Porter)  #362: 0.012542759407069504
+Length of the vocabulary #362: 108
+
+Reduction text           #363: 0.2180616740088106
+Reduction text (Porter)  #363: 0.014317180616740033
+Length of the vocabulary #363: 113
+
+Reduction text           #364: 0.26762320648783533
+Reduction text (Porter)  #364: 0.013724266999376122
+Length of the vocabulary #364: 161
+
+Reduction text           #365: 0.22416737830913747
+Reduction text (Porter)  #365: 0.013663535439795038
+Length of the vocabulary #365: 245
+
+Reduction text           #366: 0.23189204076012115
+Reduction text (Porter)  #366: 0.014321123657394685
+Length of the vocabulary #366: 345
+
+Reduction text           #367: 0.23237221494102223
+Reduction text (Porter)  #367: 0.014285714285714235
+Length of the vocabulary #367: 575
+
+Reduction text           #368: 0.1920199501246883
+Reduction text (Porter)  #368: 0.01662510390689942
+Length of the vocabulary #368: 133
+
+Reduction text           #369: 0.20244012652507903
+Reduction text (Porter)  #369: 0.013104383190239544
+Length of the vocabulary #369: 219
+
+Reduction text           #370: 0.22009132420091326
+Reduction text (Porter)  #370: 0.01433789954337894
+Length of the vocabulary #370: 793
+
+Reduction text           #371: 0.2155797101449275
+Reduction text (Porter)  #371: 0.017598343685300222
+Length of the vocabulary #371: 359
+
+Reduction text           #372: 0.2221254355400697
+Reduction text (Porter)  #372: 0.015679442508710784
+Length of the vocabulary #372: 131
+
+Reduction text           #373: 0.2090862157976252
+Reduction text (Porter)  #373: 0.018327310273619002
+Length of the vocabulary #373: 353
+
+Reduction text           #374: 0.21630615640599005
+Reduction text (Porter)  #374: 0.01386577925679422
+Length of the vocabulary #374: 198
+
+Reduction text           #375: 0.22784810126582278
+Reduction text (Porter)  #375: 0.014014466546112159
+Length of the vocabulary #375: 219
+
+Reduction text           #376: 0.2516666666666667
+Reduction text (Porter)  #376: 0.014444444444444482
+Length of the vocabulary #376: 201
+
+Reduction text           #377: 0.2261173660866599
+Reduction text (Porter)  #377: 0.014073694984646834
+Length of the vocabulary #377: 858
+
+Reduction text           #378: 0.2391414141414141
+Reduction text (Porter)  #378: 0.013636363636363669
+Length of the vocabulary #378: 336
+
+Reduction text           #379: 0.23479318734793186
+Reduction text (Porter)  #379: 0.013686131386861367
+Length of the vocabulary #379: 310
+
+Reduction text           #380: 0.22831293241085682
+Reduction text (Porter)  #380: 0.014103246407663694
+Length of the vocabulary #380: 359
+
+Reduction text           #381: 0.2400287459575997
+Reduction text (Porter)  #381: 0.013654329859863479
+Length of the vocabulary #381: 264
+
+Reduction text           #382: 0.24457510849783004
+Reduction text (Porter)  #382: 0.013999720005599903
+Length of the vocabulary #382: 599
+
+Reduction text           #383: 0.21819899244332497
+Reduction text (Porter)  #383: 0.01416876574307302
+Length of the vocabulary #383: 293
+
+Reduction text           #384: 0.22249280495904367
+Reduction text (Porter)  #384: 0.01416869603719284
+Length of the vocabulary #384: 384
+
+Reduction text           #385: 0.2676641729010806
+Reduction text (Porter)  #385: 0.013300083125519557
+Length of the vocabulary #385: 133
+
+Reduction text           #386: 0.24645633287608593
+Reduction text (Porter)  #386: 0.013717421124828544
+Length of the vocabulary #386: 213
+
+Reduction text           #387: 0.21492853361566966
+Reduction text (Porter)  #387: 0.01376389624139751
+Length of the vocabulary #387: 191
+
+Reduction text           #388: 0.2439830108541765
+Reduction text (Porter)  #388: 0.01392166116092497
+Length of the vocabulary #388: 356
+
+Reduction text           #389: 0.21169686985172986
+Reduction text (Porter)  #389: 0.012767710049423342
+Length of the vocabulary #389: 244
+
+Reduction text           #390: 0.2052785923753666
+Reduction text (Porter)  #390: 0.012316715542522005
+Length of the vocabulary #390: 189
+
+Reduction text           #391: 0.22712628865979378
+Reduction text (Porter)  #391: 0.013208762886597891
+Length of the vocabulary #391: 298
+
+Reduction text           #392: 0.2326766304347826
+Reduction text (Porter)  #392: 0.013586956521739135
+Length of the vocabulary #392: 271
+
+Reduction text           #393: 0.21895861148197593
+Reduction text (Porter)  #393: 0.014018691588784993
+Length of the vocabulary #393: 168
+
+Reduction text           #394: 0.23227848101265824
+Reduction text (Porter)  #394: 0.014398734177215156
+Length of the vocabulary #394: 524
+
+Reduction text           #395: 0.22205694857628555
+Reduction text (Porter)  #395: 0.013387165320867034
+Length of the vocabulary #395: 442
+
+Reduction text           #396: 0.19916868721856595
+Reduction text (Porter)  #396: 0.014201593349497776
+Length of the vocabulary #396: 291
+
+Reduction text           #397: 0.21637135013725983
+Reduction text (Porter)  #397: 0.01347641627152485
+Length of the vocabulary #397: 390
+
+Reduction text           #398: 0.21013004791238876
+Reduction text (Porter)  #398: 0.014373716632443578
+Length of the vocabulary #398: 281
+
+Reduction text           #399: 0.20100848040339214
+Reduction text (Porter)  #399: 0.013981205592482282
+Length of the vocabulary #399: 400
+
+Reduction text           #400: 0.19279128248113997
+Reduction text (Porter)  #400: 0.013411567476948827
+Length of the vocabulary #400: 127
+
+Reduction text           #401: 0.20915032679738566
+Reduction text (Porter)  #401: 0.013666072489601944
+Length of the vocabulary #401: 172
+
+Reduction text           #402: 0.23071958696353667
+Reduction text (Porter)  #402: 0.014198128428525303
+Length of the vocabulary #402: 289
+
+Reduction text           #403: 0.23307319130985027
+Reduction text (Porter)  #403: 0.013288335794136241
+Length of the vocabulary #403: 404
+
+Reduction text           #404: 0.23623753792804503
+Reduction text (Porter)  #404: 0.014087559601213662
+Length of the vocabulary #404: 402
+
+Reduction text           #405: 0.2096702317290553
+Reduction text (Porter)  #405: 0.0135918003565062
+Length of the vocabulary #405: 415
+
+Reduction text           #406: 0.20926143024618993
+Reduction text (Porter)  #406: 0.01348182883939042
+Length of the vocabulary #406: 171
+
+Reduction text           #407: 0.22724742554967992
+Reduction text (Porter)  #407: 0.013915947676036766
+Length of the vocabulary #407: 594
+
+Reduction text           #408: 0.2329706364584886
+Reduction text (Porter)  #408: 0.013861976449545343
+Length of the vocabulary #408: 578
+
+Reduction text           #409: 0.20986301369863014
+Reduction text (Porter)  #409: 0.01315068493150684
+Length of the vocabulary #409: 192
+
+Reduction text           #410: 0.21571590479788438
+Reduction text (Porter)  #410: 0.013222516055912403
+Length of the vocabulary #410: 246
+
+Reduction text           #411: 0.217232566630157
+Reduction text (Porter)  #411: 0.013873676524278955
+Length of the vocabulary #411: 280
+
+Reduction text           #412: 0.23647650014779786
+Reduction text (Porter)  #412: 0.013301803133313639
+Length of the vocabulary #412: 323
+
+Reduction text           #413: 0.21770894213909997
+Reduction text (Porter)  #413: 0.01315020455873761
+Length of the vocabulary #413: 325
+
+Reduction text           #414: 0.21611208406304727
+Reduction text (Porter)  #414: 0.014010507880910628
+Length of the vocabulary #414: 268
+
+Reduction text           #415: 0.22847043701799485
+Reduction text (Porter)  #415: 0.01349614395886889
+Length of the vocabulary #415: 286
+
+Reduction text           #416: 0.2192788815305372
+Reduction text (Porter)  #416: 0.014532744665194941
+Length of the vocabulary #416: 446
+
+Reduction text           #417: 0.23672055427251737
+Reduction text (Porter)  #417: 0.018090839107005374
+Length of the vocabulary #417: 268
+
+Reduction text           #418: 0.19638888888888884
+Reduction text (Porter)  #418: 0.01694444444444443
+Length of the vocabulary #418: 360
+
+Reduction text           #419: 0.21451104100946372
+Reduction text (Porter)  #419: 0.018927444794952675
+Length of the vocabulary #419: 137
+
+Reduction text           #420: 0.23404255319148937
+Reduction text (Porter)  #420: 0.019075568598679427
+Length of the vocabulary #420: 143
+
+Reduction text           #421: 0.21181384248210022
+Reduction text (Porter)  #421: 0.018496420047732665
+Length of the vocabulary #421: 156
+
+Reduction text           #422: 0.20273851590106007
+Reduction text (Porter)  #422: 0.014134275618374548
+Length of the vocabulary #422: 220
+
+Reduction text           #423: 0.21029082774049213
+Reduction text (Porter)  #423: 0.01342281879194629
+Length of the vocabulary #423: 57
+
+Reduction query          #1: 0.11764705882352944
+Reduction query (Porter) #1: 0.0117647058823529
+Length of the vocabulary #1: 12
+
+Reduction query          #2: 0.1311475409836066
+Reduction query (Porter) #2: 0.008196721311475419
+Length of the vocabulary #2: 18
+
+Reduction query          #3: 0.22695035460992907
+Reduction query (Porter) #3: 0.014184397163120588
+Length of the vocabulary #3: 18
+
+Reduction query          #4: 0.18604651162790697
+Reduction query (Porter) #4: 0.011627906976744207
+Length of the vocabulary #4: 15
+
+Reduction query          #5: 0.07692307692307687
+Reduction query (Porter) #5: 0.0
+Length of the vocabulary #5: 7
+
+Reduction query          #6: 0.18333333333333335
+Reduction query (Porter) #6: 0.008333333333333304
+Length of the vocabulary #6: 20
+
+Reduction query          #7: 0.12149532710280375
+Reduction query (Porter) #7: 0.009345794392523366
+Length of the vocabulary #7: 18
+
+Reduction query          #8: 0.25
+Reduction query (Porter) #8: 0.008333333333333304
+Length of the vocabulary #8: 18
+
+Reduction query          #9: 0.10909090909090913
+Reduction query (Porter) #9: 0.0
+Length of the vocabulary #9: 8
+
+Reduction query          #10: 0.1473684210526316
+Reduction query (Porter) #10: 0.010526315789473717
+Length of the vocabulary #10: 13
+
+Reduction query          #11: 0.21259842519685035
+Reduction query (Porter) #11: 0.007874015748031482
+Length of the vocabulary #11: 17
+
+Reduction query          #12: 0.2457627118644068
+Reduction query (Porter) #12: 0.008474576271186418
+Length of the vocabulary #12: 16
+
+Reduction query          #13: 0.35433070866141736
+Reduction query (Porter) #13: 0.015748031496062964
+Length of the vocabulary #13: 20
+
+Reduction query          #14: 0.2516556291390728
+Reduction query (Porter) #14: 0.013245033112582738
+Length of the vocabulary #14: 21
+
+Reduction query          #15: 0.1607142857142857
+Reduction query (Porter) #15: 0.0
+Length of the vocabulary #15: 9
+
+Reduction query          #16: 0.20610687022900764
+Reduction query (Porter) #16: 0.01526717557251911
+Length of the vocabulary #16: 20
+
+Reduction query          #17: 0.1728395061728395
+Reduction query (Porter) #17: 0.012345679012345734
+Length of the vocabulary #17: 10
+
+Reduction query          #18: 0.10752688172043012
+Reduction query (Porter) #18: 0.010752688172043001
+Length of the vocabulary #18: 14
+
+Reduction query          #19: 0.23369565217391308
+Reduction query (Porter) #19: 0.010869565217391353
+Length of the vocabulary #19: 23
+
+Reduction query          #20: 0.23853211009174313
+Reduction query (Porter) #20: 0.013761467889908285
+Length of the vocabulary #20: 29
+
+Reduction query          #21: 0.16822429906542058
+Reduction query (Porter) #21: 0.009345794392523366
+Length of the vocabulary #21: 15
+
+Reduction query          #22: 0.2857142857142857
+Reduction query (Porter) #22: 0.011904761904761862
+Length of the vocabulary #22: 14
+
+Reduction query          #23: 0.26415094339622647
+Reduction query (Porter) #23: 0.0
+Length of the vocabulary #23: 8
+
+Reduction query          #24: 0.14492753623188404
+Reduction query (Porter) #24: 0.0
+Length of the vocabulary #24: 10
+
+Reduction query          #25: 0.19736842105263153
+Reduction query (Porter) #25: 0.013157894736842146
+Length of the vocabulary #25: 12
+
+Reduction query          #26: 0.125
+Reduction query (Porter) #26: 0.01388888888888884
+Length of the vocabulary #26: 11
+
+Reduction query          #27: 0.13829787234042556
+Reduction query (Porter) #27: 0.010638297872340385
+Length of the vocabulary #27: 15
+
+Reduction query          #28: 0.18085106382978722
+Reduction query (Porter) #28: 0.010638297872340385
+Length of the vocabulary #28: 12
+
+Reduction query          #29: 0.16560509554140124
+Reduction query (Porter) #29: 0.01273885350318471
+Length of the vocabulary #29: 22
+
+Reduction query          #30: 0.1567567567567567
+Reduction query (Porter) #30: 0.010810810810810811
+Length of the vocabulary #30: 25
+
+Reduction query          #31: 0.17441860465116277
+Reduction query (Porter) #31: 0.011627906976744207
+Length of the vocabulary #31: 11
+
+Reduction query          #32: 0.15454545454545454
+Reduction query (Porter) #32: 0.009090909090909038
+Length of the vocabulary #32: 16
+
+Reduction query          #33: 0.18367346938775508
+Reduction query (Porter) #33: 0.010204081632653073
+Length of the vocabulary #33: 12
+
+Reduction query          #34: 0.18103448275862066
+Reduction query (Porter) #34: 0.008620689655172376
+Length of the vocabulary #34: 16
+
+Reduction query          #35: 0.2844036697247706
+Reduction query (Porter) #35: 0.00917431192660545
+Length of the vocabulary #35: 16
+
+Reduction query          #36: 0.08823529411764708
+Reduction query (Porter) #36: 0.014705882352941124
+Length of the vocabulary #36: 11
+
+Reduction query          #37: 0.1333333333333333
+Reduction query (Porter) #37: 0.0
+Length of the vocabulary #37: 9
+
+Reduction query          #38: 0.22972972972972971
+Reduction query (Porter) #38: 0.027027027027026973
+Length of the vocabulary #38: 13
+
+Reduction query          #39: 0.12686567164179108
+Reduction query (Porter) #39: 0.007462686567164201
+Length of the vocabulary #39: 17
+
+Reduction query          #40: 0.22689075630252098
+Reduction query (Porter) #40: 0.008403361344537785
+Length of the vocabulary #40: 15
+
+Reduction query          #41: 0.17721518987341767
+Reduction query (Porter) #41: 0.012658227848101222
+Length of the vocabulary #41: 12
+
+Reduction query          #42: 0.18018018018018023
+Reduction query (Porter) #42: 0.009009009009009028
+Length of the vocabulary #42: 18
+
+Reduction query          #43: 0.19999999999999996
+Reduction query (Porter) #43: 0.014285714285714235
+Length of the vocabulary #43: 10
+
+Reduction query          #44: 0.10144927536231885
+Reduction query (Porter) #44: 0.01449275362318836
+Length of the vocabulary #44: 11
+
+Reduction query          #45: 0.10909090909090913
+Reduction query (Porter) #45: 0.0
+Length of the vocabulary #45: 8
+
+Reduction query          #46: 0.11267605633802813
+Reduction query (Porter) #46: 0.014084507042253502
+Length of the vocabulary #46: 12
+
+Reduction query          #47: 0.12727272727272732
+Reduction query (Porter) #47: 0.0
+Length of the vocabulary #47: 10
+
+Reduction query          #48: 0.2727272727272727
+Reduction query (Porter) #48: 0.0
+Length of the vocabulary #48: 6
+
+Reduction query          #49: 0.09230769230769231
+Reduction query (Porter) #49: 0.0
+Length of the vocabulary #49: 9
+
+Reduction query          #50: 0.25
+Reduction query (Porter) #50: 0.010000000000000009
+Length of the vocabulary #50: 15
+
+Reduction query          #51: 0.09090909090909094
+Reduction query (Porter) #51: 0.0
+Length of the vocabulary #51: 4
+
+Reduction query          #52: 0.2846153846153846
+Reduction query (Porter) #52: 0.007692307692307665
+Length of the vocabulary #52: 22
+
+Reduction query          #53: 0.20560747663551404
+Reduction query (Porter) #53: 0.009345794392523366
+Length of the vocabulary #53: 15
+
+Reduction query          #54: 0.11538461538461542
+Reduction query (Porter) #54: 0.009615384615384581
+Length of the vocabulary #54: 16
+
+Reduction query          #55: 0.11764705882352944
+Reduction query (Porter) #55: 0.009803921568627416
+Length of the vocabulary #55: 14
+
+Reduction query          #56: 0.15306122448979587
+Reduction query (Porter) #56: 0.010204081632653073
+Length of the vocabulary #56: 16
+
+Reduction query          #57: 0.08571428571428574
+Reduction query (Porter) #57: 0.0
+Length of the vocabulary #57: 6
+
+Reduction query          #58: 0.11764705882352944
+Reduction query (Porter) #58: 0.0117647058823529
+Length of the vocabulary #58: 12
+
+Reduction query          #59: 0.18018018018018023
+Reduction query (Porter) #59: 0.009009009009009028
+Length of the vocabulary #59: 15
+
+Reduction query          #60: 0.09375
+Reduction query (Porter) #60: 0.0
+Length of the vocabulary #60: 6
+
+Reduction query          #61: 0.0625
+Reduction query (Porter) #61: 0.0
+Length of the vocabulary #61: 6
+
+Reduction query          #62: 0.12962962962962965
+Reduction query (Porter) #62: 0.0
+Length of the vocabulary #62: 9
+
+Reduction query          #63: 0.1454545454545455
+Reduction query (Porter) #63: 0.009090909090909038
+Length of the vocabulary #63: 18
+
+Reduction query          #64: 0.21875
+Reduction query (Porter) #64: 0.012499999999999956
+Length of the vocabulary #64: 24
+
+Reduction query          #65: 0.29268292682926833
+Reduction query (Porter) #65: 0.0
+Length of the vocabulary #65: 6
+
+Reduction query          #66: 0.2222222222222222
+Reduction query (Porter) #66: 0.011111111111111072
+Length of the vocabulary #66: 11
+
+Reduction query          #67: 0.2786885245901639
+Reduction query (Porter) #67: 0.0
+Length of the vocabulary #67: 8
+
+Reduction query          #68: 0.05769230769230771
+Reduction query (Porter) #68: 0.0
+Length of the vocabulary #68: 7
+
+Reduction query          #69: 0.22627737226277367
+Reduction query (Porter) #69: 0.007299270072992692
+Length of the vocabulary #69: 22
+
+Reduction query          #70: 0.14
+Reduction query (Porter) #70: 0.010000000000000009
+Length of the vocabulary #70: 18
+
+Reduction query          #71: 0.2184873949579832
+Reduction query (Porter) #71: 0.008403361344537785
+Length of the vocabulary #71: 17
+
+Reduction query          #72: 0.1875
+Reduction query (Porter) #72: 0.01041666666666663
+Length of the vocabulary #72: 14
+
+Reduction query          #73: 0.17647058823529416
+Reduction query (Porter) #73: 0.008403361344537785
+Length of the vocabulary #73: 17
+
+Reduction query          #74: 0.25
+Reduction query (Porter) #74: 0.01388888888888884
+Length of the vocabulary #74: 12
+
+Reduction query          #75: 0.1339285714285714
+Reduction query (Porter) #75: 0.008928571428571397
+Length of the vocabulary #75: 18
+
+Reduction query          #76: 0.19672131147540983
+Reduction query (Porter) #76: 0.008196721311475419
+Length of the vocabulary #76: 20
+
+Reduction query          #77: 0.15714285714285714
+Reduction query (Porter) #77: 0.014285714285714235
+Length of the vocabulary #77: 10
+
+Reduction query          #78: 0.23484848484848486
+Reduction query (Porter) #78: 0.007575757575757569
+Length of the vocabulary #78: 21
+
+Reduction query          #79: 0.0625
+Reduction query (Porter) #79: 0.01041666666666663
+Length of the vocabulary #79: 16
+
+Reduction query          #80: 0.19827586206896552
+Reduction query (Porter) #80: 0.017241379310344862
+Length of the vocabulary #80: 18
+
+Reduction query          #81: 0.17391304347826086
+Reduction query (Porter) #81: 0.008695652173912993
+Length of the vocabulary #81: 12
+
+Reduction query          #82: 0.12941176470588234
+Reduction query (Porter) #82: 0.0117647058823529
+Length of the vocabulary #82: 12
+
+Reduction query          #83: 0.10828025477707004
+Reduction query (Porter) #83: 0.01273885350318471
+Length of the vocabulary #83: 21
+
+Homework #1 - End. Time elapsed: 79 second(s)

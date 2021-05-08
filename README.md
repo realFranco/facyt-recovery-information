@@ -10,14 +10,21 @@ The details about the activity are inside the next reference.
 
 ## Installation steps
 ```shell
+// Tested on Ubuntu 20.04
+
 // Create the virtual env.
 python3 -m venv env
 
-// Activate the virtual env.
+// Activate the virtual env. [Linux]
 source env/bin/activate
+
+// Activate the virtual env. [Windows] (Not tested yet).
+env\Scripts\activate.bat
 
 // Install dependencies
 pip3 install -r requirements.txt
+
+Probabbly you will seme "building error" but even with that error the depedency is installed.
 
 // Turn off the virtual env.
 deactivate
